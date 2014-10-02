@@ -1,4 +1,5 @@
 # generator-basic-project
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/matiassingers/generator-basic-project?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 > start a basic project
 
 Create the following basic files `README.md`, `license`, `.editorconfig` and `.gitignore`.
